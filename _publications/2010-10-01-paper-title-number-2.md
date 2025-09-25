@@ -1,10 +1,16 @@
 ---
-title: "AirtypeLogger: How Short Keystrokes in Virtual Space Can Expose Your Semantic Input to Nearby Cameras"
-collection: publications
-category: manuscripts
-excerpt: 'This article presents a natural language processing method that can decipher user input in a virtual space, even for inputs as short as 7 characters, with 90% accuracy.'
-date: 2025-03-10
-venue: 'IEEE Transactions on Visualization and Computer Graphics'
+title: "Paper Title Number 2"
+collection: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<a href='http://academicpages.github.io/files/paper2.pdf'>Download paper here</a>
+
+This paper is about the number 2. The number 3 is left for future work.
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
